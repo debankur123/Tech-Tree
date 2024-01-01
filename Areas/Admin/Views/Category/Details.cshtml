@@ -1,0 +1,36 @@
+﻿@model TechTree_MVC.Entities.Master.TT_M_Category
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card border-0">
+                <div class="card-header bg-danger text-white text-center">
+                    <h1 class="font-weight-bold">Details</h1>
+                </div>
+                <div class="card-body bg-light">
+                    <hr class="my-4">
+                    <dl class="row">
+                        <dt class="col-sm-3 font-weight-bold">Title</dt>
+                        <dd class="col-sm-9 text-primary">@Html.DisplayFor(model => model.Title)</dd>
+
+                        <dt class="col-sm-3 font-weight-bold mb-2">Description</dt>
+                        <dd class="col-sm-9 text-secondary">@Html.DisplayFor(model => model.Description)</dd>
+
+                        <dt class="col-sm-3 font-weight-bold">Thumbnail Image Path</dt>
+                        <dd class="col-sm-9 text-secondary">@Html.DisplayFor(model => model.ThumbnailImagePath)</dd>
+                    </dl>
+                </div>
+                <div class="card-footer bg-light">
+                    <div class="text-center">
+                        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn primary-button animate__animated animate__fadeInUp"><i class="fa-sharp fa-solid fa-pen-to-square"></i><span class="ms-2">Edit</span></a>
+                        <a style="text-transform:none;" asp-action="Index" class="btn secondary-button ml-3 animate__animated animate__fadeInUp"><i class="fa-sharp fa-solid fa-chevron-left"></i><span class="ms-2">Back</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
