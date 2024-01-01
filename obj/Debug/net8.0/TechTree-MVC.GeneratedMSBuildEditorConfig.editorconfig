@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\DotNet_Projects\TechTreeMVCApp\TechTree-MVC\TechTree-MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/DotNet_Projects/TechTreeMVCApp/TechTree-MVC/TechTree-MVC/Areas/Admin/Views/CategoryItem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlJdGVtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DotNet_Projects/TechTreeMVCApp/TechTree-MVC/TechTree-MVC/Areas/Admin/Views/CategoryItem/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlJdGVtXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DotNet_Projects/TechTreeMVCApp/TechTree-MVC/TechTree-MVC/Areas/Admin/Views/CategoryItem/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlJdGVtXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DotNet_Projects/TechTreeMVCApp/TechTree-MVC/TechTree-MVC/Areas/Admin/Views/CategoryItem/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlJdGVtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DotNet_Projects/TechTreeMVCApp/TechTree-MVC/TechTree-MVC/Areas/Admin/Views/CategoryItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlJdGVtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/DotNet_Projects/TechTreeMVCApp/TechTree-MVC/TechTree-MVC/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

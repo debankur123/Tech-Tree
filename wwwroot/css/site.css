@@ -1,6 +1,6 @@
 @import url('https://unpkg.com/css.gg@2.0.0/icons/css/chevron-left-o.css');
 
-@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Inter:wght@500&family=Roboto&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=IBM+Plex+Sans&family=Inter:wght@500&family=Playfair+Display&family=Roboto&family=Roboto+Condensed&display=swap');
 
 html {
     font-size: 14px;
@@ -25,7 +25,7 @@ html {
 
 body {
     margin-bottom: 10px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 

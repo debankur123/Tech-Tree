@@ -8,7 +8,7 @@
     <h1 class="mb-4 text-center text-capitalize">CATEGORY LIST</h1>
 
     <div class="table-responsive">
-        <table class="table table-striped table-bordered">
+        <table class="table table-striped table-bordered" id="categoryList">
             <thead class="thead-dark">
                 <tr>
                     <th>@Html.DisplayNameFor(model => model.Title)</th>
@@ -51,11 +51,14 @@
     </div>
 </div>
 
-@section Scripts {
-    <script>
-        var successMessage = '@TempData["SuccessMessage"]';
-        if (successMessage) {
-            toastr.success(successMessage, 'Success');
-        }
-    </script>
-}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
+<script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+<script type="text/javascript">
+    var table = jQuery.noConflict(true);
+    table(document).ready(function () {
+        table('#categoryList').DataTable({
+
+        });
+    });
+</script>

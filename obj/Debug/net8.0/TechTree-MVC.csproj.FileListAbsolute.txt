@@ -256,3 +256,5 @@ D:\DotNet_Projects\TechTreeMVCApp\TechTree-MVC\TechTree-MVC\bin\Debug\net8.0\run
 D:\DotNet_Projects\TechTreeMVCApp\TechTree-MVC\TechTree-MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\DotNet_Projects\TechTreeMVCApp\TechTree-MVC\TechTree-MVC\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\DotNet_Projects\TechTreeMVCApp\TechTree-MVC\TechTree-MVC\obj\Debug\net8.0\TechTree-MVC.sourcelink.json
+D:\DotNet_Projects\TechTreeMVCApp\TechTree-MVC\TechTree-MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\DotNet_Projects\TechTreeMVCApp\TechTree-MVC\TechTree-MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
